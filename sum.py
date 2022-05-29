@@ -1,0 +1,3 @@
+def returnsum(mydict):
+    list = []
+    
